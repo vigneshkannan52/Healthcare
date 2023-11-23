@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pharmacy &#8211; Health and Wellness Community</title>
+	<atom:link href="https://vigneshkannan52.github.io/Healthcare/tag/pharmacy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vigneshkannan52.github.io/Healthcare</link>
+	<description>Health is Wealth</description>
+	<lastBuildDate>Thu, 23 Nov 2023 12:57:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://vigneshkannan52.github.io/Healthcare/wp-content/uploads/2023/11/favicon.png</url>
+	<title>Pharmacy &#8211; Health and Wellness Community</title>
+	<link>https://vigneshkannan52.github.io/Healthcare</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Health Tips For Children</title>
+		<link>https://vigneshkannan52.github.io/Healthcare/2020/08/11/health-tips-for-children/</link>
+					<comments>https://vigneshkannan52.github.io/Healthcare/2020/08/11/health-tips-for-children/#respond</comments>
+		
+		<dc:creator><![CDATA[vignesh52]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2020 10:21:03 +0000</pubDate>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Neurology]]></category>
+		<category><![CDATA[Orthopedic]]></category>
+		<category><![CDATA[Pharmacy]]></category>
+		<guid isPermaLink="false">https://demo.keonthemes.com/gutener/demo11/?p=26</guid>
+
+					<description><![CDATA[Omnis porttitor excepturi accumsan massa iaculis. Condimentum ipsam nulla mi orci fugit, ratione minim lorem quo sed delectus? Pulvinar gravida at parturient dolore cursus, rerum laborum ante inventore, animi quasi excepteur aute voluptas iaculis. Corrupti, nunc. Natoque inceptos dis, aperiam? Architecto cum, imperdiet dolorem! Incididunt, dignissim anim distinctio curabitur nostrud fugit recusandae aut pharetra eros platea conubia posuere posuere quis [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Omnis porttitor excepturi accumsan massa iaculis. Condimentum ipsam nulla mi orci fugit, ratione minim lorem quo sed delectus? Pulvinar gravida at parturient dolore cursus, rerum laborum ante inventore, animi quasi excepteur aute voluptas iaculis. Corrupti, nunc. Natoque inceptos dis, aperiam? Architecto cum, imperdiet dolorem! Incididunt, dignissim anim distinctio curabitur nostrud fugit recusandae aut pharetra eros platea conubia posuere posuere quis dis labore orci eros orci consequatur ultricies!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vigneshkannan52.github.io/Healthcare/2020/08/11/health-tips-for-children/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

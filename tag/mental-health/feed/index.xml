@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mental Health &#8211; Health and Wellness Community</title>
+	<atom:link href="https://vigneshkannan52.github.io/Healthcare/tag/mental-health/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vigneshkannan52.github.io/Healthcare</link>
+	<description>Health is Wealth</description>
+	<lastBuildDate>Thu, 23 Nov 2023 12:57:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://vigneshkannan52.github.io/Healthcare/wp-content/uploads/2023/11/favicon.png</url>
+	<title>Mental Health &#8211; Health and Wellness Community</title>
+	<link>https://vigneshkannan52.github.io/Healthcare</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>You Want Know About Doctor</title>
+		<link>https://vigneshkannan52.github.io/Healthcare/2020/08/11/you-want-know-about-doctor/</link>
+					<comments>https://vigneshkannan52.github.io/Healthcare/2020/08/11/you-want-know-about-doctor/#respond</comments>
+		
+		<dc:creator><![CDATA[vignesh52]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2020 10:19:44 +0000</pubDate>
+				<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Medicine]]></category>
+		<guid isPermaLink="false">https://demo.keonthemes.com/gutener/demo11/?p=25</guid>
+
+					<description><![CDATA[Sapien natoque, dolore expedita ultricies vehicula quisquam scelerisque ipsam. Nascetur! Faucibus cursus. Dolorum wisi. Proin explicabo ad saepe reiciendis gravida distinctio tempora sapien omnis? Qui asperiores duis nulla, necessitatibus curabitur? Repellat. Ante rutrum maiores, fermentum tenetur,]]></description>
+										<content:encoded><![CDATA[
+<p>Sapien natoque, dolore expedita ultricies vehicula quisquam scelerisque ipsam. Nascetur! Faucibus cursus. Dolorum wisi. Proin explicabo ad saepe reiciendis gravida distinctio tempora sapien omnis? Qui asperiores duis nulla, necessitatibus curabitur? Repellat. Ante rutrum maiores, fermentum tenetur,</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vigneshkannan52.github.io/Healthcare/2020/08/11/you-want-know-about-doctor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
